@@ -1,0 +1,20 @@
+Program Design for Character Analysis program
+
+write function protosypes
+	show header function
+	check if letter 
+	check if number
+	check if vowel
+	Check case of letter
+	check if number is even or odd
+	check if logical operator
+	check if puncuation character
+in main
+	declare and open an input stream
+	declare and open an output stream
+	while there is stuff in the input text do this 
+		call check letter, number, logical operator, and punctuation functions
+	close streams
+other program functions
+for the rest of the functions, use if or switch statements to detect if the character in the input file is a letter, number, etc.
+once the character is analyzed, print the character's analysis in the output file. 

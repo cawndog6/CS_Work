@@ -1,0 +1,69 @@
+Connor Williams
+1/31/2018
+CS270 
+HW 1
+Results
+
+The results:
+
+Size of each function:
+populatearray(): 149
+copyarray(): 83
+bubbleSort(): 183
+insertionSort(): 192
+quickSort(): 98
+swap(): 45
+
+Address where each function is located (in hexadecimal):
+populatearray(): 4009ba
+copyarray(): 400967
+bubbleSort(): a7c
+insertionSort(): 400b33
+quickSort(): 400bf3
+swap(): 400a4f
+
+Name and entry point for the entire program:
+name- alpha-bin, entry point = 0x400590
+
+Locations and names of subroutines from “standard libraries” such as stdio or stdlib that are linked with your file:
+name- fscanf() location: 000000602018
+name- fopen() location: 000000602040
+
+The locations and sizes of the data sections used by your program:
+
+name- mainarray[] size- 40000 location- 602080
+name- MAX_SIZE(int) size- 4 location 400e28  
+
+recompiling the program using the -O option:
+
+Size of each function:
+populatearray(): 101
+copyarray(): 37
+bubbleSort(): 115
+insertionSort(): 75
+quickSort(): 96
+swap(): 9
+
+Address where each function is located (in hexadecimal):
+populatearray(): 4005e9
+copyarray(): 4005c4
+bubbleSort(): 40089d
+insertionSort(): 400790
+quickSort(): 400831
+swap(): 400894
+
+Name and entry point for the entire program:
+name- alpha-bin, entry point = 0x4004e0
+
+Locations and names of subroutines from “standard libraries” such as stdio or stdlib that are$
+name- fscanf() location: 6011e0
+name- fopen() location: 6011e8
+
+The locations and sizes of the data sections used by your program:
+
+name- mainarray[] size- 40000 location- 601240
+name- MAX_SIZE(int) size- 4 location 400a80
+
+Note:
+I have noticed that in the optomized program with the -0 command, the size of the functions
+are slightly smaller. This makes the program as a whole smaller.

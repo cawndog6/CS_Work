@@ -1,0 +1,33 @@
+Connor Williams
+1/31/2017
+Lab3
+Section5
+Lab3Program2Script
+
+Script started on Tue 31 Jan 2017 02:36:48 PM PST
+[?1034hbash-4.1$ ./Lab3Program2
+Welcome!
+Please enter a number: 8 8
+Please enter another number: 4
+8 is greater than 4
+Press enter to quit.
+
+bash-4.1$ ./Lab3Program2
+Welcome!
+Please enter a number: 3
+Please enter another number: 9 18
+18 is greater than 3
+Press enter to quit.
+
+
+bash-4.1$ ./Lab3Program2
+Welcome!
+Please enter a number: 20  16
+Please enter another number: 16
+16 is equal to 16
+Press enter to quit.
+
+bash-4.1$ exit
+exit
+
+Script done on Tue 31 Jan 2017 02:38:12 PM PST

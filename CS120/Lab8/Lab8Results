@@ -1,0 +1,22 @@
+Script started on Tue 28 Mar 2017 02:36:16 PM PDT
+[?1034hbash-4.1$ ./a.out
+Hello. Please enter an integer 10 times:1
+Hello. Please enter an integer 10 times:232
+Hello. Please enter an integer 10 times:2
+Hello. Please enter an integer 10 times:234
+Hello. Please enter an integer 10 times:54
+Hello. Please enter an integer 10 times:665
+Hello. Please enter an integer 10 times:43
+Hello. Please enter an integer 10 times:234
+Hello. Please enter an integer 10 times:6
+Ty. Your average is 147 and sum is 1471
+Have a nice day :)
+0
+Segmentation fault
+bash-4.1$ 6[Kexit
+exit
+
+As can be seen at the end of my program execution, when the program prints the 11th element in the array, it prints a 0. When it is told to call the 10,000th element in the array,
+it prints "Segmentation fault".
+
+Script done on Tue 28 Mar 2017 02:36:39 PM PDT

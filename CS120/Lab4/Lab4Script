@@ -1,0 +1,46 @@
+Script started on Tue 07 Feb 2017 03:39:22 PM PST
+[?1034hbash-4.1$ ./calculator_for_loop100
+Enter a value: 1
+
+Enter a value: 2
+
+Enter a value: 5
+
+Enter a value: 7 0
+
+The sum is: 8
+bash-4.1$ ./calculator_while_loop
+This program calculates up to 100 values. Enter a 0 to get the sum of the values entered if entering less than 100.
+Enter a value: 5
+
+Enter a value: 7
+
+Enter a value: 3
+
+Enter a value: 0 7
+
+Enter a value: 0
+
+The sum is 22
+bash-4.1$ ./calculator_do_while_loop
+This program calculates up to 100 values. Enter a 0 to get the sum of the values entered if entering less than 100.
+Enter a value: 4
+Enter a value: 6
+Enter a value: 9
+Enter a value: 3
+Enter a value: 0
+The sum is 22
+bash-4.1$ ./AS[KSCII_Table
+	0	1	2	3	4	5	6	7	8	9
+40	(	)	*	+	,	-	.	/	0	1	
+50	2	3	4	5	6	7	8	9	:	;	
+60	<	=	>	?	@	A	B	C	D	E	
+70	F	G	H	I	J	K	L	M	N	O	
+80	P	Q	R	S	T	U	V	W	X	Y	
+90	Z	[	\	]	^	_	`	a	b	c	
+100	d	e	f	g	h	i	j	k	l	m	
+110	n	o	p	q	r	s	t	u	v	w	
+bash-4.1$ exit
+exit
+
+Script done on Tue 07 Feb 2017 03:42:38 PM PST

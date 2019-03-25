@@ -1,0 +1,63 @@
+Connor Williams
+1/24/17
+Lab2
+Section 5
+Exercise 2.1 Questions
+Q1: What does the program print for the sum and the average if you enter 5 and 17?
+A: The sum of 5 plus 17 is 22. The average of your numbers is 11.
+
+Q2: What does the program print for the sum and the average if you enter 6 and 17?
+A: The sum of 6 plus 17 is 23. The average of your numbers is 11.
+
+Q3: What does the program print for the sum and the average if you enter 4.5 and 5.5?
+A: Please enter another number: The sum of 4 plus 0 is 4. The average of your numbers is 2.
+
+*Updated Program2.cpp to type double x and y variables instead of typt int.*
+
+Q1: What does the program print for the sum and the average if you enter 5 and 17?
+A: The sum of 5 plus 17 is 22. The average of your numbers is 11.
+
+Q2: What does the program print for the sum and the average if you enter 6 and 17?
+A: The sum of 6 plus 17 is 23. The average of your numbers is 11.
+
+Q3: What does the program print for the sum and the average if you enter 4.5 and 5.5?
+A: The sum of 4.5 plus 5.5 is 10. The average of your numbers is 5.
+
+*Still having problems when entering 6 and 17. Also when entering other numbers with decimals.*
+*Updated Program2.cpp. Changed variables sum and average to type double instead of type int.*
+
+Q1: What does the program print for the sum and the average if you enter 5 and 17?
+A: The sum of 5 plus 17 is 22. The average of your numbers is 11.
+
+Q2: What does the program print for the sum and the average if you enter 6 and 17?
+A: The sum of 6 plus 17 is 23. The average of your numbers is 11.5.
+
+Q3: What does the program print for the sum and the average if you enter 4.5 and 5.5?
+A: The sum of 4.5 plus 5.5 is 10. The average of your numbers is 5.
+*Program works correctly :)
+
+Exercise 2.2 Questions
+Q1: What happens if you declare a variable of type int and print its
+value before assigning it a value?
+A: The program prints a 0.
+
+Q2: What happens if you declare a variable of type float and print
+its value before assigning it a value?
+A: Like with type int, type float prints a 0.
+
+Q3: What is the difference (if any) between the answers for questions
+1 and 2 and how would you explain the results?
+A: There was no difference in my case. Both were zero. I think what is happening is either a zero is in the computers memory for my variable or the default value is zero.
+
+Q4: Is it possible to try to store a value that is too large for an integer
+variable to hold? What happens if you try?
+A: It is possible to store a value too large for type int. Once the value is too large, the computer begins printing zeros instead.
+
+Q5: Is it possible to try to store a value that is too large for a float
+(double) variable to hold?
+A: It is possibe to store a value too large for both type float and double variables. Double seems to be able to go higher. After a certain point, the computer prints "inf", which I think means infinity.
+
+Q6: Try to find the largest value that an integer variable can correctly
+hold.
+A: I started at 1,000,000,000 and added 100,000,000 many times and the highest number I got was 2,100,000,000. Then it started going negative for some reason that I don't understand.
+

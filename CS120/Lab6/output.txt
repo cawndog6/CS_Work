@@ -1,0 +1,49 @@
+Connor Williams
+Section5
+Lab6
+2/23/2017
+A is  a letter
+A is upper case
+A is a vowel
+t is  a letter
+t is lower case
+t is a consonent
+4 is a number
+4 is even
+7 is a number
+7 is odd
+> is a logical operator
+. is a punctuation character
+! is a logical operator
+! is a punctuation character
+C is  a letter
+C is upper case
+C is a consonent
+c is  a letter
+c is lower case
+c is a consonent
+E is  a letter
+E is upper case
+E is a vowel
+e is  a letter
+e is lower case
+e is a vowel
+9 is a number
+9 is odd
+0 is a number
+0 is even
+2 is a number
+2 is even
+? is a punctuation character
+H is  a letter
+H is upper case
+H is a consonent
+Y is  a letter
+Y is upper case
+Y is a consonent
+i is  a letter
+i is lower case
+i is a vowel
+o is  a letter
+o is lower case
+o is a vowel

@@ -1,0 +1,32 @@
+Script started on Tue 25 Apr 2017 02:28:48 PM PDT
+[?1034hbash-4.1$ ./struct
+Please enter the persons name (max 25 characters): Bob
+Enter an ID number: 1234
+
+
+Name: Bob
+ID Number: 1234
+bash-4.1$ ./struct2
+You may enter up to 10 students.
+Enter the student's name: Bill
+Enter the student's ID number: 235
+Do you want to enter more? Press 1 if you're finished or 2 to continue adding students: 2
+Enter the student's name: Joe
+Enter the student's ID number: 5433
+Do you want to enter more? Press 1 if you're finished or 2 to continue adding students: 2
+Enter the student's name: Pam
+Enter the student's ID number: 65434
+Do you want to enter more? Press 1 if you're finished or 2 to continue adding students: 1
+Student #0's name: Bill
+Student #0's ID number 235
+
+Student #1's name: Joe
+Student #1's ID number 5433
+
+Student #2's name: Pam
+Student #2's ID number 65434
+
+bash-4.1$ es[Kxit
+exit
+
+Script done on Tue 25 Apr 2017 02:31:03 PM PDT
