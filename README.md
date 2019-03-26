@@ -1,4 +1,4 @@
-# CS_Work
+## CS_Work
 
 ### **Connor Williams**
 ### University of Idaho
@@ -21,3 +21,5 @@ gcc connorsprogram.c -o connorsprogram
 For a C++ File – 
 
 g++ connorsprogram.cpp -o connorsprogram
+
+![Image](https://openclipart.org/download/215664/Computer-Guy.svg)
