@@ -1,6 +1,7 @@
 # CS_Work
 Connor Williams
 University of Idaho
+will5828@vandals.uidaho.edu
 3/36/2019
 
 This repository contains all my CS course work at the University of Idaho as an undergraduate.It will be periodically
