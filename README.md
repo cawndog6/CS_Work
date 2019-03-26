@@ -3,7 +3,7 @@
 ### **Connor Williams**
 ### University of Idaho
 ### Email: will5828@vandals.uidaho.edu
-### LinkedIn: [Link](www.linkedin.com/in/connor-williams-0332)
+### LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/connor-williams-0332)
 ### 3/36/2019
 
 ---
