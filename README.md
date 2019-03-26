@@ -1,7 +1,10 @@
-# CS_Work
-Connor Williams
-University of Idaho
-3/36/2019
+## CS_Work
+
+### **Connor Williams**
+### University of Idaho
+### Email: will5828@vandals.uidaho.edu
+### LinkedIn: [Link](www.linkedin.com/in/connor-williams-0332)
+### 3/36/2019
 
 This repository contains all my CS course work at the University of Idaho as an undergraduate.It will be periodically
 updated with new assignments as I work through getting my degree. The intention of this repository is to share my work
@@ -18,3 +21,5 @@ gcc connorsprogram.c -o connorsprogram
 For a C++ File – 
 
 g++ connorsprogram.cpp -o connorsprogram
+
+![Image](https://openclipart.org/download/215664/Computer-Guy.svg)
