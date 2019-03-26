@@ -6,6 +6,7 @@
 ### LinkedIn: [Link](www.linkedin.com/in/connor-williams-0332)
 ### 3/36/2019
 
+---
 This repository contains all my CS course work at the University of Idaho as an undergraduate.It will be periodically
 updated with new assignments as I work through getting my degree. The intention of this repository is to share my work
 with colleagues or potential employers. It is password protected and compressed to prevent other Computer Science students
